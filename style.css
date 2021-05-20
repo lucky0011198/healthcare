@@ -22,7 +22,7 @@ body {
    colour:white;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
-    background:url(asset/img/clear.jpg);
+    background:url(clear.jpg);
   
   
   }
@@ -173,7 +173,7 @@ body {
       margin-bottom: 35px;
     }
     .jumbotron{
-    		background: url(asset/img/clear.jpg);
+    		background: url(clear.jpg);
     }
   }
   @media screen and (max-width: 480px) {
@@ -181,6 +181,6 @@ body {
       font-size: 150px;
     }
     .jumbotron{
-    	background:url(asset/img/clear.jpg);
+    	background:url(clear.jpg);
     }
   }
