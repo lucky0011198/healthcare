@@ -3,6 +3,8 @@ body {
     line-height: 1.8;
     color: #818181;
     background:url(asset/img/h.png);
+    background-repeat:no-repeat;
+    background-size:cover;
   }
   h2 {
     font-size: 24px;
