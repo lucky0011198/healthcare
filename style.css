@@ -25,6 +25,8 @@ body {
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
     background:url(clear.jpg);
+      background-repeat:no-repeat;
+    background-size:cover;
   
   
   }
