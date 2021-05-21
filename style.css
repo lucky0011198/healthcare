@@ -22,7 +22,7 @@ body {
   }  
   .jumbotron {
    colour:white;
-     padding:40%;
+      padding:100px;
     font-family: Montserrat, sans-serif;
     background:url(clear.jpg);
       background-repeat:no-repeat;
